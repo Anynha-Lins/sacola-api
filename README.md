@@ -22,12 +22,11 @@ Postman	9.**<br>
 <h3>Minha experiência nessa Week:</h3>
 Conheci um novo mundo, estou encantada e ansiosa para aprender mais.
 
-Tive um contato diria traumático com o Java no início deste ano(2022), mas insisti nessa linguagem
-e essa Week me mostrou as infinitas possibilidades a serem alcançadas.
+Essa Week me mostrou as infinitas possibilidades a serem alcançadas.
 Fiz questão de digitar linha a linha copiando do vídeo, apareceram alguns erros e com ajuda das dicas 
 das Mentorias e colegas, consegui resolver.
 
-Agradeço a DIO, Ifood e a maravilhosa Camila por essa semana e a oportunidade de me desenvolver.
+Agradeço a DIO, Ifood por essa semana e a oportunidade de me desenvolver.
 
 Quero estar entre os TOP 10 desse Bootcamp, vamos pra cima🚀
 
